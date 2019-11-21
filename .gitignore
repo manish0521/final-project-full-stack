@@ -1,0 +1,53 @@
+/myProject-backend/node_modules
+/myProject-Frontend/node_modules
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/myProject-Frontend/node_modules
+/myProject-Frontend/.pnp
+/myProject-Frontend/pnp.js
+
+# testing
+/myProject-Frontend/coverage
+
+# production
+/myProject-Frontend/build
+
+# misc
+/myProject-Frontend/.env
+/myProject-Frontend/.DS_Store
+/myProject-Frontend/.env.local
+/myProject-Frontend/.env.development.local
+/myProject-Frontend/.env.test.local
+/myProject-Frontend/.env.production.local
+
+/myProject-Frontend/npm-debug.log*
+/myProject-Frontend/yarn-debug.log*
+/myProject-Frontend/yarn-error.log*
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/myProject-backend/node_modules
+/myProject-backend/.pnp
+/myProject-backend/pnp.js
+
+# testing
+/myProject-backend/coverage
+
+# production
+/myProject-backend/build
+
+# misc
+/myProject-backend/.env
+/myProject-backend/.DS_Store
+/myProject-backend/.env.local
+/myProject-backend/.env.development.local
+/myProject-backend/.env.test.local
+/myProject-backend/.env.production.local
+
+/myProject-backend/npm-debug.log*
+/myProject-backend/yarn-debug.log*
+/myProject-backend/yarn-error.log*
